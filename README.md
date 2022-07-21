@@ -28,6 +28,7 @@
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=plastic&logo=yarn&logoColor=white) 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white) 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=plastic&logo=swagger&logoColor=white)
+![Jest](https://img.shields.io/badge/jest-%232C8EBB.svg?style=plastic&logo=jest&logoColor=white) 
 
 ### Softwares:
 
